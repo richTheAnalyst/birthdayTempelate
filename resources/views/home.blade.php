@@ -4,7 +4,7 @@
 <div class="container mx-auto px-4 py-12">
     <div class="text-center fade-in">
         <h1 class="text-5xl font-bold text-purple-600 mb-8">Happy Birthday, Miss VANESSA AWANYO! 🎉</h1>
-           <img src="{{ asset('storage/images/mam6.jpg') }}" alt="Mom" class="mx-auto rounded-full h-64 w-64 object-cover shadow-xl slide-up cursor-pointer" onclick="openModal(this)">
+           <img src="{{ asset('images/mam6.jpg') }}" alt="Mom" class="mx-auto rounded-full h-64 w-64 object-cover shadow-xl slide-up cursor-pointer" onclick="openModal(this)">
     </div>
 
      <div class="container mx-auto px-4 py-12">
@@ -15,7 +15,7 @@
 
             <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mam15.jpg')}}" alt="Nessa's celebration" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mam15.jpg')}}" alt="Nessa's celebration" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Birthday Celebration</h3>
@@ -24,7 +24,7 @@
                 </div>
                  <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mam25.jpg')}}" alt="Nessa's celebration" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mam25.jpg')}}" alt="Nessa's celebration" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Birthday Celebration</h3>
@@ -33,7 +33,7 @@
                 </div>
                  <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mam10.jpg')}}" alt="Nessa's celebration" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mam10.jpg')}}" alt="Nessa's celebration" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Birthday Celebration</h3>
@@ -43,7 +43,7 @@
                 <!-- Card 1 -->
                 <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mam18.jpg')}}" alt="Nessa's celebration" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mam18.jpg')}}" alt="Nessa's celebration" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">She's an ICON</h3>
@@ -54,7 +54,7 @@
                 <!-- Card 2 -->
                 <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mam17.jpg')}}" alt="Beach vacation" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mam17.jpg')}}" alt="Beach vacation" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Beach Getaway</h3>
@@ -65,7 +65,7 @@
                 <!-- Card 3 -->
                 <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mam21.jpg')}}" alt="Cooking together" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mam21.jpg')}}" alt="Cooking together" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Culinary Adventures</h3>
@@ -76,7 +76,7 @@
                 <!-- Card 4 -->
                 <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mam26.jpg')}}" alt="Garden flowers" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mam26.jpg')}}" alt="Garden flowers" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Garden Paradise</h3>
@@ -87,7 +87,7 @@
                 <!-- Card 5 -->
                 <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mam27.jpg')}}" alt="Holiday gathering" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mam27.jpg')}}" alt="Holiday gathering" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Model Artisan</h3>
@@ -98,7 +98,7 @@
 
                  <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mamwrld1.jpg')}}" alt="Holiday gathering" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mamwrld1.jpg')}}" alt="Holiday gathering" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Holidays. The world belongs to the bold</h3>
@@ -110,7 +110,7 @@
                 <!-- Card 6 -->
                 <div class="photo-card">
                     <div class="overflow-hidden">
-                        <img src="{{ asset('storage/images/mamforest.jpg')}}" alt="Adventure day" class="photo-img cursor-pointer" onclick="openModal(this)">
+                        <img src="{{ asset('images/mamforest.jpg')}}" alt="Adventure day" class="photo-img cursor-pointer" onclick="openModal(this)">
                     </div>
                     <div class="photo-content">
                         <h3 class="photo-title">Adventure Seeker</h3>

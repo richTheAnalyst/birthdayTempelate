@@ -24,7 +24,7 @@
          promote inclusion, and drive transformation at every level.
 
        </p>
-         <img src="{{ asset('storage/images/mamdog.jpg') }}" alt="Bio photo" class="w-full rounded-lg shadow-lg mt-6">
+         <img src="{{ asset('images/mamdog.jpg') }}" alt="Bio photo" class="w-full rounded-lg shadow-lg mt-6">
             <p> She is always looking for opportunities to grow in her space,
          strategic communication, and advocacy spaces where creativity meets purpose.
           Whether it’s through writing, producing, or collaborating on social impact projects,

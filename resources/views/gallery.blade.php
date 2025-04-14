@@ -6,7 +6,7 @@
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         @for($i = 1; $i <= 31; $i++)
             <div class="aspect-square">
-                <img src="{{ asset('storage/images/mam' . $i . '.jpg') }}" alt="Gallery photo {{ $i }}"
+                <img src="{{ asset('images/mam' . $i . '.jpg') }}" alt="Gallery photo {{ $i }}"
                  class="w-full h-full object-cover rounded-lg shadow hover:shadow-xl transition cursor-pointer" onclick="openModal(this)">
 
             </div>
